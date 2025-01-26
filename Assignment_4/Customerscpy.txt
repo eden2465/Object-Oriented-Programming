@@ -1,0 +1,7 @@
+Name	Purchesing/Repairment	Arrival Time	ElectricVehicle	Model	MaxSpeed	Weight	IsClosing
+Klara	purchesing	0	Scooter				
+Sybyl	repairment	0	Bike	GD321	35	15	1
+Tobye	purchesing	0	Scooter				
+Kelbee	repairment	1	Bike	MD322	40	16	1
+Karyn	purchesing	0	Scooter				
+Romeo	repairment	1	Bike	JR323	40	18	1
